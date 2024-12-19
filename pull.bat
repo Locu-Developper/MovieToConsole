@@ -1,1 +1,0 @@
-git pull https://github.com/Locu-Developper/CommandPlay.git main
